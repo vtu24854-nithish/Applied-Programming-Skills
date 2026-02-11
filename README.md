@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
