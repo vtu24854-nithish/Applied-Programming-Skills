@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0621-task-scheduler](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -166,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
