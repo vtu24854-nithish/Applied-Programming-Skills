@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
