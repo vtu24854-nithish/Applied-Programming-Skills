@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -369,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
