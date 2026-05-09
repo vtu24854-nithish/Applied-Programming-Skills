@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0002-add-two-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vtu24854-nithish/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
